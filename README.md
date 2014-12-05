@@ -6,6 +6,7 @@ CircularSearch is a utility to add, maintain and search the Circulars orders whi
 This Utility was created by me for use by my father. He is a working professional who have to handle the Inter Organization circulars (Information notices)ba lot ranging till 8-10 years, which are hundreds in no if not thousands. 
 
 This utility has 3 parts:
+
 1. Display a table with all the circular titles (not file title but actualy text title of the circular), circular number and date.bThere is a search functionality to search in the titles column for particular keywords.
 
 2. Manually add new circulars in the list. Which is a form to fill all the entries and insert new circular information.
